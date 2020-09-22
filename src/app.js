@@ -1,0 +1,1 @@
+const rapidLib = window.RapidLib();
